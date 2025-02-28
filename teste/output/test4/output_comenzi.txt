@@ -1,0 +1,38 @@
+Nume: Ion Popescu
+Comanda ID: 0
+Data comenzii: 15/10/2023
+Produse comandate:
+1 X Laptop (2999.99)
+2 X Mouse (99.99)
+Total comanda: 3199.97 RON
+
+Nume: Maria Ionescu
+Comanda ID: 1
+Data comenzii: 18/10/2023
+Produse comandate:
+1 X Telefon (1499.49)
+Total comanda: 1499.49 RON
+
+Nume: Ana Georgescu
+Comanda ID: 2
+Data comenzii: 20/11/2023
+Produse comandate:
+1 X Laptop (2999.99)
+1 X Mouse (99.99)
+2 X Telefon (1499.49)
+Total comanda: 6098.96 RON
+
+Nume: Vasile Mihai
+Comanda ID: 3
+Data comenzii: 5/12/2023
+Produse comandate:
+3 X Laptop (2999.99)
+1 X Mouse (99.99)
+Total comanda: 9099.96 RON
+
+Nume: Elena Popa
+Comanda ID: 4
+Data comenzii: 10/1/2024
+Produse comandate:
+1 X Telefon (1499.49)
+Total comanda: 1499.49 RON

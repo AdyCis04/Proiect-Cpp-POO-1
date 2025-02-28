@@ -1,0 +1,422 @@
+100
+Ion Popescu
+15 10 2023 3
+Laptop 1
+Mouse 2
+Telefon 1
+Maria Ionescu
+18 10 2023 2
+Tableta 1
+CastiBluetooth 2
+Ana Georgescu
+20 11 2023 1
+Laptop 2
+Vasile Mihai
+05 12 2023 4
+Mouse 1
+Telefon 2
+CastiInEar 3
+Imprimanta 1
+Elena Popa
+10 01 2024 2
+Televizor 1
+BoxaBluetooth 1
+Radu Ionescu
+15 02 2024 1
+LaptopGaming 1
+Irina Stan
+22 03 2024 3
+Router 1
+HubUSB 2
+CabluHDMI 5
+Cristina Tudor
+30 03 2024 2
+SmartWatch 1
+Proiector 1
+Mihai Dumitrescu
+10 04 2024 3
+SSD 1
+HardDisk 1
+CastiGaming 1
+Simona Enache
+20 04 2024 2
+Monitor 1
+Scanner 1
+Vlad Popescu
+30 04 2024 1
+RouterMesh 1
+Larisa Gheorghe
+05 05 2024 3
+SmartThermostat 1
+SmartLight 2
+SmartPlugs 1
+Adrian Pavel
+12 05 2024 1
+BoxaSmart 1
+Valentina Stoica
+25 05 2024 2
+HubUSB 1
+SmartCurtain 1
+Diana Iliescu
+05 06 2024 4
+CameraSmart 1
+BoxaPortabila 1
+Televizor 1
+Switch 1
+Oana Ciobanu
+10 06 2024 2
+Imprimanta 1
+LaptopStudent 1
+Alexandru Radu
+20 06 2024 1
+TelefonFix 1
+Ioana Marcu
+25 06 2024 3
+Videointerfon 1
+SmartDoorLock 1
+SmartIR 1
+Catalin Dumitru
+30 06 2024 2
+Scanner3D 1
+BoxaBluetooth 1
+Andreea Cristea
+05 07 2024 1
+TabletaGrafica 1
+Robert Enescu
+12 07 2024 3
+Joystick 1
+Laptop 1
+Tastatura 2
+Paul Toma
+15 07 2024 2
+CastiInEar 2
+MicrofonUSB 1
+Alex Popa
+20 07 2024 1
+Repeater 1
+Cristian Moise
+25 07 2024 4
+Webcam 1
+CameraIP 2
+Adaptor 1
+Boxe 2
+Maria Mihalache
+05 08 2024 2
+Telefon 1
+Imprimanta3D 1
+Violeta Toma
+10 08 2024 3
+HubUSB 1
+NAS 1
+Alarma 1
+Andrei Stan
+15 08 2024 1
+SmartHub 1
+Anca Serban
+20 08 2024 2
+BoxaPortabila 1
+SmartLight 2
+Cosmin Matei
+25 08 2024 3
+USB 1
+StatieDeIncarcare 1
+ExtensieUSB 1
+Gabriel Gheorghe
+30 08 2024 2
+RouterMesh 1
+SistemAudio 1
+Denisa Pop
+05 09 2024 4
+SenzorApa 1
+SenzorMiscare 1
+CamereSupraveghere 1
+UPS 1
+Ionut Radu
+10 09 2024 2
+CantarSmart 1
+ConsolaRetro 1
+Costel Andrei
+15 09 2024 3
+LaptopBusiness 1
+BoxaSmart 1
+IncarcatorTelefon 2
+Catalina Badescu
+20 09 2024 1
+CameraSmart 1
+Florin Manea
+25 09 2024 2
+SmartCurtain 1
+PrizaInteligenta 1
+Alina Sava
+30 09 2024 3
+Repeater 1
+Controler 1
+TastaturaMecanica 1
+Emanuel Stan
+05 10 2024 2
+DockingLaptop 1
+CastiGaming 1
+Monica Ene
+10 10 2024 1
+Videointerfon 1
+Dan Balan
+15 10 2024 3
+MicrofonWireless 1
+LaptopStudent 1
+SmartRelay 1
+Raluca Vasilescu
+20 10 2024 2
+Boxe 1
+CameraIP 1
+Stefan Lupescu
+25 10 2024 1
+Router 1
+Diana Popescu
+30 10 2024 4
+NAS 1
+SmartPlugs 2
+GlonteleInteligent 1
+Interfon 1
+Mihai Dragan
+05 11 2024 3
+Laptop 1
+Telefon 1
+Switch 1
+Mircea Constantinescu
+10 11 2024 1
+SmartIR 1
+Simona Rusu
+15 11 2024 2
+BoxaBluetooth 1
+CastiBluetooth 1
+Cosmin Nicolae
+20 11 2024 1
+CabluUSB 2
+Elena Marin
+25 11 2024 3
+Tableta 1
+MicrofonUSB 1
+TastaturaWireless 1
+Andrei Ursu
+30 11 2024 4
+SmartDoorLock 1
+Televizor 1
+NAS 1
+RouterMesh 1
+Vlad Guran
+05 12 2024 2
+LaptopGaming 1
+HubUSB 1
+Bianca Marin
+10 12 2024 1
+Adaptor 1
+George Neagu
+15 12 2024 2
+BoxaSmart 1
+MicrofonWireless 1
+Cristian Munteanu
+20 12 2024 3
+LaptopBusiness 1
+CabluHDMI 1
+Webcam 1
+Alexandru Pavel
+25 12 2024 1
+Consola 1
+Alin Dima
+30 12 2024 3
+BoxaBluetooth 1
+Televizor 1
+CameraIP 2
+Irina Vasile
+05 01 2025 2
+Telefon 1
+Imprimanta 1
+Maria Tanase
+10 01 2025 1
+Laptop 1
+Ovidiu Toma
+15 01 2025 3
+SmartWatch 1
+Boxe 2
+Tableta 1
+Nicoleta Ene
+20 01 2025 4
+Router 1
+Switch 1
+HubUSB 1
+CastiGaming 1
+Dragos Neagu
+25 01 2025 2
+LaptopGaming 1
+Imprimanta3D 1
+Vasile Tudor
+30 01 2025 3
+NAS 1
+BoxaPortabila 2
+CantarSmart 1
+Simona Ciobanu
+05 02 2025 1
+Videointerfon 1
+Ionita Buzatu
+10 02 2025 2
+Televizor 1
+Controler 1
+Mirela Iancu
+15 02 2025 1
+ConsolaRetro 1
+Cristina Apostol
+20 02 2025 3
+LaptopBusiness 1
+MicrofonUSB 1
+BoxaSmart 1
+Daniel Gheorghe
+25 02 2025 2
+NAS 1
+SmartHub 1
+Ileana Dumitrescu
+28 02 2025 3
+Laptop 1
+CastiBluetooth 2
+Televizor 1
+Florin Marin
+05 03 2025 4
+Switch 1
+HubUSB 1
+BoxaPortabila 1
+SmartLight 2
+Elena Vlad
+10 03 2025 1
+SmartThermostat 1
+Alexandru Munteanu
+15 03 2025 2
+LaptopStudent 1
+Imprimanta 1
+Raluca Gheorghiu
+20 03 2025 3
+NAS 1
+Monitor 1
+RouterMesh 1
+Radu Serban
+25 03 2025 1
+Router 1
+Mihai Andrei
+30 03 2025 2
+TelefonFix 1
+CameraSmart 1
+Gabriel Grigore
+05 04 2025 3
+Laptop 1
+Tableta 1
+BoxaBluetooth 1
+Eugen Dinca
+10 04 2025 2
+Scanner 1
+ConsolaRetro 1
+Silvia Nica
+15 04 2025 1
+LaptopBusiness 1
+Marius Matei
+20 04 2025 2
+Boxe 1
+Imprimanta3D 1
+Lucian Preda
+25 04 2025 3
+Monitor 1
+Switch 1
+CastiGaming 1
+Andreea Voinea
+30 04 2025 4
+LaptopGaming 1
+RouterMesh 1
+MicrofonUSB 1
+Consola 1
+Ionut Ionescu
+05 05 2025 1
+Videointerfon 1
+Corina Radu
+10 05 2025 2
+Tastatura 1
+CastiBluetooth 1
+Darius Enache
+15 05 2025 3
+SmartPlugs 1
+NAS 1
+CantarSmart 1
+Mihaela Iliescu
+20 05 2025 2
+Laptop 1
+HubUSB 2
+Cosmin Barbu
+25 05 2025 1
+Televizor 1
+Ileana Neagu
+30 05 2025 3
+Tableta 1
+BoxaPortabila 1
+CameraIP 1
+George Alexandru
+05 06 2025 4
+LaptopStudent 1
+Router 1
+CabluHDMI 1
+Imprimanta3D 1
+Adriana Marinescu
+10 06 2025 1
+Scanner 1
+Mihai Toma
+15 06 2025 2
+LaptopBusiness 1
+SmartHub 1
+Ionela Voicu
+20 06 2025 3
+NAS 1
+Switch 1
+Televizor 1
+Robert Dinca
+25 06 2025 2
+Laptop 1
+ConsolaRetro 1
+Mariana Popa
+30 06 2025 1
+MicrofonUSB 1
+Alexandru Zamfir
+05 07 2025 2
+SmartWatch 1
+CastiGaming 1
+Cristina Ilie
+10 07 2025 1
+Tableta 1
+Vlad Ciobanu
+15 07 2025 3
+Laptop 1
+Imprimanta 1
+Telefon 1
+Oana Dumitru
+20 07 2025 2
+CastiBluetooth 1
+Televizor 1
+Ionel Pana
+25 07 2025 1
+RouterMesh 1
+Camelia Rusu
+30 07 2025 2
+BoxaPortabila 1
+SmartCurtain 1
+Maria Constantinescu
+05 08 2025 3
+Scanner 1
+NAS 1
+SmartThermostat 1
+Paul Georgescu
+10 08 2025 4
+LaptopGaming 1
+CastiInEar 1
+Tableta 1
+Boxe 2
+Adrian Badea
+15 08 2025 1
+HubUSB 1
+Iulia Tanase
+20 08 2025 2
+CameraSmart 1
+Switch 1

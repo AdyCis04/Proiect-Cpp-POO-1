@@ -1,0 +1,8 @@
+Stoc ramas
+0. Laptop: 10, Pret: 2999.99
+1. Telefon: 26, Pret: 1499.49
+2. Mouse: 46, Pret: 99.99
+3. Tableta: 20, Pret: 599.99
+4. Imprimanta: 10, Pret: 899.99
+5. Monitor: 25, Pret: 1200.49
+6. Tastatura: 40, Pret: 199.99

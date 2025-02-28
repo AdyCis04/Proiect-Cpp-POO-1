@@ -1,0 +1,20 @@
+5
+Ion Popescu
+15 10 2023 2
+Laptop 1
+Mouse 2
+Maria Ionescu
+18 10 2023 1
+Telefon 1
+Ana Georgescu
+20 11 2023 3
+Laptop 1
+Mouse 1
+Telefon 2
+Vasile Mihai
+05 12 2023 2
+Laptop 3
+Mouse 1
+Elena Popa
+10 01 2024 1
+Telefon 1

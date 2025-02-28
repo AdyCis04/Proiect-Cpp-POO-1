@@ -1,0 +1,8 @@
+7
+Laptop 2999.99 15
+Telefon 1499.49 30
+Mouse 99.99 50
+Tableta 599.99 20
+Imprimanta 899.99 10
+Monitor 1200.49 25
+Tastatura 199.99 40

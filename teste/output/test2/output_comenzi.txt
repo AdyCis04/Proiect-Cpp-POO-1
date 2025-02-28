@@ -1,0 +1,7 @@
+Nume: Ion Popescu
+Comanda ID: 0
+Data comenzii: 15/10/2023
+Produse comandate:
+1 X Laptop (2999.99)
+2 X Mouse (99.99)
+Total comanda: 3199.97 RON

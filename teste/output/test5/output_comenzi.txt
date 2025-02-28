@@ -1,0 +1,820 @@
+Nume: Ion Popescu
+Comanda ID: 0
+Data comenzii: 15/10/2023
+Produse comandate:
+1 X Laptop (2999.99)
+2 X Mouse (99.99)
+1 X Telefon (1499.49)
+Total comanda: 4699.46 RON
+
+Nume: Maria Ionescu
+Comanda ID: 1
+Data comenzii: 18/10/2023
+Produse comandate:
+1 X Tableta (599.99)
+2 X CastiBluetooth (249.99)
+Total comanda: 1099.97 RON
+
+Nume: Ana Georgescu
+Comanda ID: 2
+Data comenzii: 20/11/2023
+Produse comandate:
+2 X Laptop (2999.99)
+Total comanda: 5999.98 RON
+
+Nume: Vasile Mihai
+Comanda ID: 3
+Data comenzii: 5/12/2023
+Produse comandate:
+1 X Mouse (99.99)
+2 X Telefon (1499.49)
+3 X CastiInEar (49.99)
+1 X Imprimanta (899.99)
+Total comanda: 4148.93 RON
+
+Nume: Elena Popa
+Comanda ID: 4
+Data comenzii: 10/1/2024
+Produse comandate:
+1 X Televizor (2299.99)
+1 X BoxaBluetooth (199.99)
+Total comanda: 2499.98 RON
+
+Nume: Radu Ionescu
+Comanda ID: 5
+Data comenzii: 15/2/2024
+Produse comandate:
+1 X LaptopGaming (4500.99)
+Total comanda: 4500.99 RON
+
+Nume: Irina Stan
+Comanda ID: 6
+Data comenzii: 22/3/2024
+Produse comandate:
+1 X Router (249.99)
+2 X HubUSB (49.99)
+5 X CabluHDMI (15.99)
+Total comanda: 429.92 RON
+
+Nume: Cristina Tudor
+Comanda ID: 7
+Data comenzii: 30/3/2024
+Produse comandate:
+1 X SmartWatch (249.99)
+1 X Proiector (1499.99)
+Total comanda: 1749.98 RON
+
+Nume: Mihai Dumitrescu
+Comanda ID: 8
+Data comenzii: 10/4/2024
+Produse comandate:
+1 X SSD (149.99)
+1 X HardDisk (499.99)
+1 X CastiGaming (149.99)
+Total comanda: 799.97 RON
+
+Nume: Simona Enache
+Comanda ID: 9
+Data comenzii: 20/4/2024
+Produse comandate:
+1 X Monitor (1200.49)
+1 X Scanner (549.99)
+Total comanda: 1750.48 RON
+
+Nume: Vlad Popescu
+Comanda ID: 10
+Data comenzii: 30/4/2024
+Produse comandate:
+1 X RouterMesh (499.99)
+Total comanda: 499.99 RON
+
+Nume: Larisa Gheorghe
+Comanda ID: 11
+Data comenzii: 5/5/2024
+Produse comandate:
+1 X SmartThermostat (149.99)
+2 X SmartLight (29.99)
+1 X SmartPlugs (39.99)
+Total comanda: 249.96 RON
+
+Nume: Adrian Pavel
+Comanda ID: 12
+Data comenzii: 12/5/2024
+Produse comandate:
+1 X BoxaSmart (199.99)
+Total comanda: 199.99 RON
+
+Nume: Valentina Stoica
+Comanda ID: 13
+Data comenzii: 25/5/2024
+Produse comandate:
+1 X HubUSB (49.99)
+1 X SmartCurtain (399.99)
+Total comanda: 449.98 RON
+
+Nume: Diana Iliescu
+Comanda ID: 14
+Data comenzii: 5/6/2024
+Produse comandate:
+1 X CameraSmart (599.99)
+1 X BoxaPortabila (99.99)
+1 X Televizor (2299.99)
+1 X Switch (199.99)
+Total comanda: 3199.96 RON
+
+Nume: Oana Ciobanu
+Comanda ID: 15
+Data comenzii: 10/6/2024
+Produse comandate:
+1 X Imprimanta (899.99)
+1 X LaptopStudent (1999.99)
+Total comanda: 2899.98 RON
+
+Nume: Alexandru Radu
+Comanda ID: 16
+Data comenzii: 20/6/2024
+Produse comandate:
+1 X TelefonFix (59.99)
+Total comanda: 59.99 RON
+
+Nume: Ioana Marcu
+Comanda ID: 17
+Data comenzii: 25/6/2024
+Produse comandate:
+1 X Videointerfon (699.99)
+1 X SmartDoorLock (299.99)
+1 X SmartIR (79.99)
+Total comanda: 1079.97 RON
+
+Nume: Catalin Dumitru
+Comanda ID: 18
+Data comenzii: 30/6/2024
+Produse comandate:
+1 X Scanner3D (2499.99)
+1 X BoxaBluetooth (199.99)
+Total comanda: 2699.98 RON
+
+Nume: Andreea Cristea
+Comanda ID: 19
+Data comenzii: 5/7/2024
+Produse comandate:
+1 X TabletaGrafica (599.99)
+Total comanda: 599.99 RON
+
+Nume: Robert Enescu
+Comanda ID: 20
+Data comenzii: 12/7/2024
+Produse comandate:
+1 X Joystick (99.99)
+1 X Laptop (2999.99)
+2 X Tastatura (199.99)
+Total comanda: 3499.96 RON
+
+Nume: Paul Toma
+Comanda ID: 21
+Data comenzii: 15/7/2024
+Produse comandate:
+2 X CastiInEar (49.99)
+1 X MicrofonUSB (69.99)
+Total comanda: 169.97 RON
+
+Nume: Alex Popa
+Comanda ID: 22
+Data comenzii: 20/7/2024
+Produse comandate:
+1 X Repeater (99.99)
+Total comanda: 99.99 RON
+
+Nume: Cristian Moise
+Comanda ID: 23
+Data comenzii: 25/7/2024
+Produse comandate:
+1 X Webcam (79.99)
+2 X CameraIP (399.99)
+1 X Adaptor (29.99)
+2 X Boxe (299.99)
+Total comanda: 1509.94 RON
+
+Nume: Maria Mihalache
+Comanda ID: 24
+Data comenzii: 5/8/2024
+Produse comandate:
+1 X Telefon (1499.49)
+1 X Imprimanta3D (2999.99)
+Total comanda: 4499.48 RON
+
+Nume: Violeta Toma
+Comanda ID: 25
+Data comenzii: 10/8/2024
+Produse comandate:
+1 X HubUSB (49.99)
+1 X NAS (999.99)
+1 X Alarma (299.99)
+Total comanda: 1349.97 RON
+
+Nume: Andrei Stan
+Comanda ID: 26
+Data comenzii: 15/8/2024
+Produse comandate:
+1 X SmartHub (499.99)
+Total comanda: 499.99 RON
+
+Nume: Anca Serban
+Comanda ID: 27
+Data comenzii: 20/8/2024
+Produse comandate:
+1 X BoxaPortabila (99.99)
+2 X SmartLight (29.99)
+Total comanda: 159.97 RON
+
+Nume: Cosmin Matei
+Comanda ID: 28
+Data comenzii: 25/8/2024
+Produse comandate:
+1 X USB (29.99)
+1 X StatieDeIncarcare (129.99)
+1 X ExtensieUSB (19.99)
+Total comanda: 179.97 RON
+
+Nume: Gabriel Gheorghe
+Comanda ID: 29
+Data comenzii: 30/8/2024
+Produse comandate:
+1 X RouterMesh (499.99)
+1 X SistemAudio (1099.99)
+Total comanda: 1599.98 RON
+
+Nume: Denisa Pop
+Comanda ID: 30
+Data comenzii: 5/9/2024
+Produse comandate:
+1 X SenzorApa (29.99)
+1 X SenzorMiscare (39.99)
+1 X CamereSupraveghere (399.99)
+1 X UPS (599.99)
+Total comanda: 1069.96 RON
+
+Nume: Ionut Radu
+Comanda ID: 31
+Data comenzii: 10/9/2024
+Produse comandate:
+1 X CantarSmart (99.99)
+1 X ConsolaRetro (199.99)
+Total comanda: 299.98 RON
+
+Nume: Costel Andrei
+Comanda ID: 32
+Data comenzii: 15/9/2024
+Produse comandate:
+1 X LaptopBusiness (3999.99)
+1 X BoxaSmart (199.99)
+2 X IncarcatorTelefon (49.99)
+Total comanda: 4299.96 RON
+
+Nume: Catalina Badescu
+Comanda ID: 33
+Data comenzii: 20/9/2024
+Produse comandate:
+1 X CameraSmart (599.99)
+Total comanda: 599.99 RON
+
+Nume: Florin Manea
+Comanda ID: 34
+Data comenzii: 25/9/2024
+Produse comandate:
+1 X SmartCurtain (399.99)
+1 X PrizaInteligenta (69.99)
+Total comanda: 469.98 RON
+
+Nume: Alina Sava
+Comanda ID: 35
+Data comenzii: 30/9/2024
+Produse comandate:
+1 X Repeater (99.99)
+1 X Controler (129.99)
+1 X TastaturaMecanica (499.99)
+Total comanda: 729.97 RON
+
+Nume: Emanuel Stan
+Comanda ID: 36
+Data comenzii: 5/10/2024
+Produse comandate:
+1 X DockingLaptop (299.99)
+1 X CastiGaming (149.99)
+Total comanda: 449.98 RON
+
+Nume: Monica Ene
+Comanda ID: 37
+Data comenzii: 10/10/2024
+Produse comandate:
+1 X Videointerfon (699.99)
+Total comanda: 699.99 RON
+
+Nume: Dan Balan
+Comanda ID: 38
+Data comenzii: 15/10/2024
+Produse comandate:
+1 X MicrofonWireless (129.99)
+1 X LaptopStudent (1999.99)
+1 X SmartRelay (59.99)
+Total comanda: 2189.97 RON
+
+Nume: Raluca Vasilescu
+Comanda ID: 39
+Data comenzii: 20/10/2024
+Produse comandate:
+1 X Boxe (299.99)
+1 X CameraIP (399.99)
+Total comanda: 699.98 RON
+
+Nume: Stefan Lupescu
+Comanda ID: 40
+Data comenzii: 25/10/2024
+Produse comandate:
+1 X Router (249.99)
+Total comanda: 249.99 RON
+
+Nume: Diana Popescu
+Comanda ID: 41
+Data comenzii: 30/10/2024
+Produse comandate:
+1 X NAS (999.99)
+2 X SmartPlugs (39.99)
+1 X GlonteleInteligent (249.99)
+1 X Interfon (249.99)
+Total comanda: 1579.95 RON
+
+Nume: Mihai Dragan
+Comanda ID: 42
+Data comenzii: 5/11/2024
+Produse comandate:
+1 X Laptop (2999.99)
+1 X Telefon (1499.49)
+1 X Switch (199.99)
+Total comanda: 4699.47 RON
+
+Nume: Mircea Constantinescu
+Comanda ID: 43
+Data comenzii: 10/11/2024
+Produse comandate:
+1 X SmartIR (79.99)
+Total comanda: 79.99 RON
+
+Nume: Simona Rusu
+Comanda ID: 44
+Data comenzii: 15/11/2024
+Produse comandate:
+1 X BoxaBluetooth (199.99)
+1 X CastiBluetooth (249.99)
+Total comanda: 449.98 RON
+
+Nume: Cosmin Nicolae
+Comanda ID: 45
+Data comenzii: 20/11/2024
+Produse comandate:
+2 X CabluUSB (9.99)
+Total comanda: 19.98 RON
+
+Nume: Elena Marin
+Comanda ID: 46
+Data comenzii: 25/11/2024
+Produse comandate:
+1 X Tableta (599.99)
+1 X MicrofonUSB (69.99)
+1 X TastaturaWireless (199.99)
+Total comanda: 869.97 RON
+
+Nume: Andrei Ursu
+Comanda ID: 47
+Data comenzii: 30/11/2024
+Produse comandate:
+1 X SmartDoorLock (299.99)
+1 X Televizor (2299.99)
+1 X NAS (999.99)
+1 X RouterMesh (499.99)
+Total comanda: 4099.96 RON
+
+Nume: Vlad Guran
+Comanda ID: 48
+Data comenzii: 5/12/2024
+Produse comandate:
+1 X LaptopGaming (4500.99)
+1 X HubUSB (49.99)
+Total comanda: 4550.98 RON
+
+Nume: Bianca Marin
+Comanda ID: 49
+Data comenzii: 10/12/2024
+Produse comandate:
+1 X Adaptor (29.99)
+Total comanda: 29.99 RON
+
+Nume: George Neagu
+Comanda ID: 50
+Data comenzii: 15/12/2024
+Produse comandate:
+1 X BoxaSmart (199.99)
+1 X MicrofonWireless (129.99)
+Total comanda: 329.98 RON
+
+Nume: Cristian Munteanu
+Comanda ID: 51
+Data comenzii: 20/12/2024
+Produse comandate:
+1 X LaptopBusiness (3999.99)
+1 X CabluHDMI (15.99)
+1 X Webcam (79.99)
+Total comanda: 4095.97 RON
+
+Nume: Alexandru Pavel
+Comanda ID: 52
+Data comenzii: 25/12/2024
+Produse comandate:
+1 X Consola (1899.99)
+Total comanda: 1899.99 RON
+
+Nume: Alin Dima
+Comanda ID: 53
+Data comenzii: 30/12/2024
+Produse comandate:
+1 X BoxaBluetooth (199.99)
+1 X Televizor (2299.99)
+2 X CameraIP (399.99)
+Total comanda: 3299.96 RON
+
+Nume: Irina Vasile
+Comanda ID: 54
+Data comenzii: 5/1/2025
+Produse comandate:
+1 X Telefon (1499.49)
+1 X Imprimanta (899.99)
+Total comanda: 2399.48 RON
+
+Nume: Maria Tanase
+Comanda ID: 55
+Data comenzii: 10/1/2025
+Produse comandate:
+1 X Laptop (2999.99)
+Total comanda: 2999.99 RON
+
+Nume: Ovidiu Toma
+Comanda ID: 56
+Data comenzii: 15/1/2025
+Produse comandate:
+1 X SmartWatch (249.99)
+2 X Boxe (299.99)
+1 X Tableta (599.99)
+Total comanda: 1449.96 RON
+
+Nume: Nicoleta Ene
+Comanda ID: 57
+Data comenzii: 20/1/2025
+Produse comandate:
+1 X Router (249.99)
+1 X Switch (199.99)
+1 X HubUSB (49.99)
+1 X CastiGaming (149.99)
+Total comanda: 649.96 RON
+
+Nume: Dragos Neagu
+Comanda ID: 58
+Data comenzii: 25/1/2025
+Produse comandate:
+1 X LaptopGaming (4500.99)
+1 X Imprimanta3D (2999.99)
+Total comanda: 7500.98 RON
+
+Nume: Vasile Tudor
+Comanda ID: 59
+Data comenzii: 30/1/2025
+Produse comandate:
+1 X NAS (999.99)
+2 X BoxaPortabila (99.99)
+1 X CantarSmart (99.99)
+Total comanda: 1299.96 RON
+
+Nume: Simona Ciobanu
+Comanda ID: 60
+Data comenzii: 5/2/2025
+Produse comandate:
+1 X Videointerfon (699.99)
+Total comanda: 699.99 RON
+
+Nume: Ionita Buzatu
+Comanda ID: 61
+Data comenzii: 10/2/2025
+Produse comandate:
+1 X Televizor (2299.99)
+1 X Controler (129.99)
+Total comanda: 2429.98 RON
+
+Nume: Mirela Iancu
+Comanda ID: 62
+Data comenzii: 15/2/2025
+Produse comandate:
+1 X ConsolaRetro (199.99)
+Total comanda: 199.99 RON
+
+Nume: Cristina Apostol
+Comanda ID: 63
+Data comenzii: 20/2/2025
+Produse comandate:
+1 X LaptopBusiness (3999.99)
+1 X MicrofonUSB (69.99)
+1 X BoxaSmart (199.99)
+Total comanda: 4269.97 RON
+
+Nume: Daniel Gheorghe
+Comanda ID: 64
+Data comenzii: 25/2/2025
+Produse comandate:
+1 X NAS (999.99)
+1 X SmartHub (499.99)
+Total comanda: 1499.98 RON
+
+Nume: Ileana Dumitrescu
+Comanda ID: 65
+Data comenzii: 28/2/2025
+Produse comandate:
+1 X Laptop (2999.99)
+2 X CastiBluetooth (249.99)
+1 X Televizor (2299.99)
+Total comanda: 5799.96 RON
+
+Nume: Florin Marin
+Comanda ID: 66
+Data comenzii: 5/3/2025
+Produse comandate:
+1 X Switch (199.99)
+1 X HubUSB (49.99)
+1 X BoxaPortabila (99.99)
+2 X SmartLight (29.99)
+Total comanda: 409.95 RON
+
+Nume: Elena Vlad
+Comanda ID: 67
+Data comenzii: 10/3/2025
+Produse comandate:
+1 X SmartThermostat (149.99)
+Total comanda: 149.99 RON
+
+Nume: Alexandru Munteanu
+Comanda ID: 68
+Data comenzii: 15/3/2025
+Produse comandate:
+1 X LaptopStudent (1999.99)
+1 X Imprimanta (899.99)
+Total comanda: 2899.98 RON
+
+Nume: Raluca Gheorghiu
+Comanda ID: 69
+Data comenzii: 20/3/2025
+Produse comandate:
+1 X NAS (999.99)
+1 X Monitor (1200.49)
+1 X RouterMesh (499.99)
+Total comanda: 2700.47 RON
+
+Nume: Radu Serban
+Comanda ID: 70
+Data comenzii: 25/3/2025
+Produse comandate:
+1 X Router (249.99)
+Total comanda: 249.99 RON
+
+Nume: Mihai Andrei
+Comanda ID: 71
+Data comenzii: 30/3/2025
+Produse comandate:
+1 X TelefonFix (59.99)
+1 X CameraSmart (599.99)
+Total comanda: 659.98 RON
+
+Nume: Gabriel Grigore
+Comanda ID: 72
+Data comenzii: 5/4/2025
+Produse comandate:
+1 X Laptop (2999.99)
+1 X Tableta (599.99)
+1 X BoxaBluetooth (199.99)
+Total comanda: 3799.97 RON
+
+Nume: Eugen Dinca
+Comanda ID: 73
+Data comenzii: 10/4/2025
+Produse comandate:
+1 X Scanner (549.99)
+1 X ConsolaRetro (199.99)
+Total comanda: 749.98 RON
+
+Nume: Silvia Nica
+Comanda ID: 74
+Data comenzii: 15/4/2025
+Produse comandate:
+1 X LaptopBusiness (3999.99)
+Total comanda: 3999.99 RON
+
+Nume: Marius Matei
+Comanda ID: 75
+Data comenzii: 20/4/2025
+Produse comandate:
+1 X Boxe (299.99)
+1 X Imprimanta3D (2999.99)
+Total comanda: 3299.98 RON
+
+Nume: Lucian Preda
+Comanda ID: 76
+Data comenzii: 25/4/2025
+Produse comandate:
+1 X Monitor (1200.49)
+1 X Switch (199.99)
+1 X CastiGaming (149.99)
+Total comanda: 1550.47 RON
+
+Nume: Andreea Voinea
+Comanda ID: 77
+Data comenzii: 30/4/2025
+Produse comandate:
+1 X LaptopGaming (4500.99)
+1 X RouterMesh (499.99)
+1 X MicrofonUSB (69.99)
+1 X Consola (1899.99)
+Total comanda: 6970.96 RON
+
+Nume: Ionut Ionescu
+Comanda ID: 78
+Data comenzii: 5/5/2025
+Produse comandate:
+1 X Videointerfon (699.99)
+Total comanda: 699.99 RON
+
+Nume: Corina Radu
+Comanda ID: 79
+Data comenzii: 10/5/2025
+Produse comandate:
+1 X Tastatura (199.99)
+1 X CastiBluetooth (249.99)
+Total comanda: 449.98 RON
+
+Nume: Darius Enache
+Comanda ID: 80
+Data comenzii: 15/5/2025
+Produse comandate:
+1 X SmartPlugs (39.99)
+1 X NAS (999.99)
+1 X CantarSmart (99.99)
+Total comanda: 1139.97 RON
+
+Nume: Mihaela Iliescu
+Comanda ID: 81
+Data comenzii: 20/5/2025
+Produse comandate:
+1 X Laptop (2999.99)
+2 X HubUSB (49.99)
+Total comanda: 3099.97 RON
+
+Nume: Cosmin Barbu
+Comanda ID: 82
+Data comenzii: 25/5/2025
+Produse comandate:
+1 X Televizor (2299.99)
+Total comanda: 2299.99 RON
+
+Nume: Ileana Neagu
+Comanda ID: 83
+Data comenzii: 30/5/2025
+Produse comandate:
+1 X Tableta (599.99)
+1 X BoxaPortabila (99.99)
+1 X CameraIP (399.99)
+Total comanda: 1099.97 RON
+
+Nume: George Alexandru
+Comanda ID: 84
+Data comenzii: 5/6/2025
+Produse comandate:
+1 X LaptopStudent (1999.99)
+1 X Router (249.99)
+1 X CabluHDMI (15.99)
+1 X Imprimanta3D (2999.99)
+Total comanda: 5265.96 RON
+
+Nume: Adriana Marinescu
+Comanda ID: 85
+Data comenzii: 10/6/2025
+Produse comandate:
+1 X Scanner (549.99)
+Total comanda: 549.99 RON
+
+Nume: Mihai Toma
+Comanda ID: 86
+Data comenzii: 15/6/2025
+Produse comandate:
+1 X LaptopBusiness (3999.99)
+1 X SmartHub (499.99)
+Total comanda: 4499.98 RON
+
+Nume: Ionela Voicu
+Comanda ID: 87
+Data comenzii: 20/6/2025
+Produse comandate:
+1 X NAS (999.99)
+1 X Switch (199.99)
+1 X Televizor (2299.99)
+Total comanda: 3499.97 RON
+
+Nume: Robert Dinca
+Comanda ID: 88
+Data comenzii: 25/6/2025
+Produse comandate:
+1 X Laptop (2999.99)
+1 X ConsolaRetro (199.99)
+Total comanda: 3199.98 RON
+
+Nume: Mariana Popa
+Comanda ID: 89
+Data comenzii: 30/6/2025
+Produse comandate:
+1 X MicrofonUSB (69.99)
+Total comanda: 69.99 RON
+
+Nume: Alexandru Zamfir
+Comanda ID: 90
+Data comenzii: 5/7/2025
+Produse comandate:
+1 X SmartWatch (249.99)
+1 X CastiGaming (149.99)
+Total comanda: 399.98 RON
+
+Nume: Cristina Ilie
+Comanda ID: 91
+Data comenzii: 10/7/2025
+Produse comandate:
+1 X Tableta (599.99)
+Total comanda: 599.99 RON
+
+Nume: Vlad Ciobanu
+Comanda ID: 92
+Data comenzii: 15/7/2025
+Produse comandate:
+1 X Laptop (2999.99)
+1 X Imprimanta (899.99)
+1 X Telefon (1499.49)
+Total comanda: 5399.47 RON
+
+Nume: Oana Dumitru
+Comanda ID: 93
+Data comenzii: 20/7/2025
+Produse comandate:
+1 X CastiBluetooth (249.99)
+1 X Televizor (2299.99)
+Total comanda: 2549.98 RON
+
+Nume: Ionel Pana
+Comanda ID: 94
+Data comenzii: 25/7/2025
+Produse comandate:
+1 X RouterMesh (499.99)
+Total comanda: 499.99 RON
+
+Nume: Camelia Rusu
+Comanda ID: 95
+Data comenzii: 30/7/2025
+Produse comandate:
+1 X BoxaPortabila (99.99)
+1 X SmartCurtain (399.99)
+Total comanda: 499.98 RON
+
+Nume: Maria Constantinescu
+Comanda ID: 96
+Data comenzii: 5/8/2025
+Produse comandate:
+1 X Scanner (549.99)
+1 X NAS (999.99)
+1 X SmartThermostat (149.99)
+Total comanda: 1699.97 RON
+
+Nume: Paul Georgescu
+Comanda ID: 97
+Data comenzii: 10/8/2025
+Produse comandate:
+1 X LaptopGaming (4500.99)
+1 X CastiInEar (49.99)
+1 X Tableta (599.99)
+2 X Boxe (299.99)
+Total comanda: 5750.95 RON
+
+Nume: Adrian Badea
+Comanda ID: 98
+Data comenzii: 15/8/2025
+Produse comandate:
+1 X HubUSB (49.99)
+Total comanda: 49.99 RON
+
+Nume: Iulia Tanase
+Comanda ID: 99
+Data comenzii: 20/8/2025
+Produse comandate:
+1 X CameraSmart (599.99)
+1 X Switch (199.99)
+Total comanda: 799.98 RON
